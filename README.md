@@ -1,4 +1,4 @@
-# URI_Online_Judge - Solutions by Diego Mauricio Tussi
+# URI Online Judge - Solutions
 
 My URI Online Judge Solutions.
 
